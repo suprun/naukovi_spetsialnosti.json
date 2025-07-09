@@ -7,7 +7,7 @@
     "valid_on": {
       "type": "string",
       "format": "date",
-      "description": "Дата, на яку цей перелік спеціальностей є дійсним."
+      "description": "Дата останнього оновлення даних."
     },
     "branches": {
       "type": "object",
